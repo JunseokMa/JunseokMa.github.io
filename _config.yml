@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "milliampere's blog :)"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : ":mainly for showing my curriculum vitae"
 name                     : "Junseok Ma"
 description              : "Hello, This is Junseok Ma; Ph.D student of POSTECH. Thanks for your visiting! "
 url                      : "https://JunseokMa.github.io"
