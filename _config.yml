@@ -130,9 +130,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Instagram"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://www.instagram.com/milli_ampere/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
