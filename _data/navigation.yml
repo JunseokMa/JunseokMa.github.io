@@ -1,7 +1,7 @@
 # main links
 main:
 - title : "Category"
-  url:/categories/
+  url: /categories/
   - # title: # "Milli_ampere's note"
     # url: https://junseokma.github.io/
   # - title: "About"
