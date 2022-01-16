@@ -9,4 +9,4 @@ title:  "첫 포스팅입니다. ㅋㅋㅋ."
 
 이미지 업로드 해볼까. 
 
-![why](C:\Users\majun97\Documents\GitHub\JunseokMa.github.io\images\2022-01-16-firststory\why.jpg)
+![bio-photo](C:\Users\majun97\Documents\GitHub\JunseokMa.github.io\images\2022-01-16-firststory\bio-photo-16423404998841.jpg)
