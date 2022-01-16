@@ -135,7 +135,7 @@ footer:
       # url: https://www.instagram.com/milli_ampere/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: https://www.facebook.com/profile.php?id=100004832526149
+      url: https://www.facebook.com/profile.php?id=100004832526149
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: 
