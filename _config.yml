@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Jun-Seok Ma"
-  avatar           : "/images/2022-01-16-firststory/bio-photo.jpg/"
+  avatar           : "./images/2022-01-16-firststory/bio-photo.jpg/"
   bio              : "Hello, This is Junseok Ma; Ph.D student of **POSTECH**. Thanks for your visiting! ."
   location         : "POSTECH, Pohang, South Korea"
   email            : "majun97@postech.ac.kr"
