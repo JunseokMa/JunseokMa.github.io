@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "첫 포스팅입니다. ㅋㅋㅋ."
+categories : CV
 ---
 
 # 오늘 처음 블로그를 만들었어요
