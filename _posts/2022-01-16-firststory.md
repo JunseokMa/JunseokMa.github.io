@@ -9,4 +9,4 @@ title:  "첫 포스팅입니다. ㅋㅋㅋ."
 
 이미지 업로드 해볼까. 
 
-![bio-photo](C:\Users\majun97\Documents\GitHub\JunseokMa.github.io\images\2022-01-16-firststory\bio-photo.jpg){: width="50%" height="50%}
+![bio-photo](C:\Users\majun97\Documents\GitHub\JunseokMa.github.io\images\2022-01-16-firststory\bio-photo.jpg){: width="25%" height="25%}
