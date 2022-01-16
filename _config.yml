@@ -20,7 +20,7 @@ title                    : "milliampere's blog :)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junseok Ma"
-description              : "Milliampere's CV"
+description              : "Hello, This is Junseok Ma; Ph.D student of POSTECH. Thanks for your visiting! "
 url                      : "https://JunseokMa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
