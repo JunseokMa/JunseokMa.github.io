@@ -1,7 +1,5 @@
 # main links
 main:
-  - title : "Category"
-  url: /categories/
   -  title: "Category"
      url: /categories/
   - # title: # "Milli_ampere's note"
